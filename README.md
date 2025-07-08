@@ -84,3 +84,5 @@ pip install pandas numpy pillow
 
 - 오전 영상 00:04:49 시점: 좌측 건널목 우측 끝 보행자로 인한 위반 감지
 - 오후 영상 00:15:59 시점: 좌측 건널목 보행자 이동으로 인한 위반 감지
+
+ppt url: https://drive.google.com/file/d/1alvrp8c9DeFzuHaNoAdcwZ-54nPaUSWu/view?usp=sharing
